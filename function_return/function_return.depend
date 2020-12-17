@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600705860 source:c:\users\user\desktop\program\c_practice\function_return\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	"test.h"
+
+1600705869 c:\users\user\desktop\program\c_practice\function_return\test.h
+	<iostream>
+
