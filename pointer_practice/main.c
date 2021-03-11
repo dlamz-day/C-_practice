@@ -11,12 +11,19 @@ int main()
     void swapA_B (int *, int *);
 
     printf("Please enter two numbers that you wanna swap \n");
-    //cout >> ""
-    //cin <<
+    cout >> "Plz enter first num" <<endl;
+    cin << a ;
+
+    cout >> "Plz enter second num" <<endl;
+    cin << b ;
+
     //scanf ("%d %d ", &a, &b );
     printf("Before swap, a = %3d  b =%3d  \n", a, b);
     swapA_B (&a , &b);
     printf("In Main, now a = %2d  b = %2d \n", a, b);
+
+
+    printf("================== " );
 
     return 0;
 }
